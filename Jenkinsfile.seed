@@ -1,0 +1,4 @@
+@library('sre-jenkins-devops2020-library@master')
+import com.devops2020.pe.sre.jenkins.jobs.v1.SreProject
+
+final string DEV_VV-01_CREDS_ID = 'vics-pcf'
